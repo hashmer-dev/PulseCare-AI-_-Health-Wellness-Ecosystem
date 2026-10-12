@@ -1,0 +1,8 @@
+{
+  "name": "PulseCare - Health & Wellness Ecosystem",
+  "description": "Comprehensive Health & Wellness platform featuring Symptom Checker & Triage, Chronic Disease Management, Global Emergency Hotlines, Diet Planner, and OCR Scanner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

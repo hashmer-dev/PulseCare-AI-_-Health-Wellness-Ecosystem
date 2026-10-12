@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@keyframes ecgScroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-ecg-scroll {
+  display: flex;
+  width: 200%;
+  animation: ecgScroll 4s linear infinite;
+}
